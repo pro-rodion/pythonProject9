@@ -5,7 +5,7 @@ from blok_bloki import *
 from blok_chudiki import *
 
 
-WIN_WIDTH = 1080  # Ширина
+WIN_WIDTH = 1080  # Ширина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
 WIN_HEIGHT = 720  # Высота
 DISPLAY = (WIN_WIDTH, WIN_HEIGHT)  # ширину и высоту в одну переменную
 BACKGROUND_COLOR = "#000000"
